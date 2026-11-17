@@ -1,11 +1,11 @@
 {
-  "version": "0.1.8",
-  "notes": "New language button in the session toolbar (next to SC): switches the remote computer's input language. Update the computer you connect from.",
-  "pub_date": "2026-11-17T10:21:15Z",
+  "version": "0.1.9",
+  "notes": "The key above Tab (language switch) reaches the host while the session window is in front and controlling (physical-keys mode). No more blurry picture after leaving a session alone (adaptive bitrate ignores idle frames and a sleeping viewer). Text copied before connecting can be pasted on the host. Smaller collapsed session bar (188x30).",
+  "pub_date": "2026-11-17T11:00:03Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTK2FUd2FQR0lKS1JZYTI2RHVOOUVxbjgxcFBHRWRDSXJCQjdSajBxcldoMUJoSC8xL1dkUWNRS25CbFJzVlpMWlFnbWt1dXBidXcwUFVNSUJDU3dVcHdPamJtSFoxRlFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0OTEwODc0CWZpbGU6UmVtb3RlTGlua18wLjEuOF94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjgKM21LUWZ1VGZncUZaUTJLcDFMQTE4aUQ5Nk9LZlNQTHc2OXpSa0hJM3FuTERQZURuSXQ1dW1HdEIyclpEMk1JSzFLUldmMjJDem1lMGFJZWxXM0FmQUE9PQo=",
-      "url": "https://github.com/ariapiacere/remotelink-updates/releases/download/v0.1.8/RemoteLink_0.1.8_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTK2FUd2FQR0lKS2NZODhNUCs1cHZRTllkVzdva2lJQlhLakthS3A4MUxkcXU1TithV1ExMDkxYlRMSVhrNnY1SmNmenlrM0pTTjl0RjJQUDFaQUJrcXgrYXZGT1Y5VHdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0OTEzMjAyCWZpbGU6UmVtb3RlTGlua18wLjEuOV94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjkKc1cyL3BCN0hMRHZqS0RWWXdUak43YmdLVGNCaWdNRTl4Rk1xQ2l0akl4TTBtZUJab1B1T21JcStzZGxXVjczMTl6VGFaWGgyM2hnTEJJbXBMYlpaQXc9PQo=",
+      "url": "https://github.com/ariapiacere/remotelink-updates/releases/download/v0.1.9/RemoteLink_0.1.9_x64-setup.exe"
     }
   }
 }
