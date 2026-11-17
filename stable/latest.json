@@ -1,11 +1,11 @@
 {
-  "version": "0.1.2",
-  "notes": "First version that updates itself from GitHub. AMD hardware-encoder hosts: about 90 % less bandwidth (padding is no longer sent); the command-line viewer no longer stalls on AMD streams.",
-  "pub_date": "2026-11-17T05:33:57Z",
+  "version": "0.1.3",
+  "notes": "You can now type the unattended-access password in the session window while it waits for the other side to accept (or after a refusal), and have it remembered for that device once it is accepted.",
+  "pub_date": "2026-11-17T07:21:02Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTK2FUd2FQR0lKS1hiNko2R0NTVmN4NFpPQUVrblFSajFWN1JyQ3VjTlY3OEdMR050MHpVcUxlSCttd0E0bVhzZjNZa1NvZ3JtZnJPbXpleGxxTkFJNnVRdmRmazJ0ZndVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0ODkzNjM1CWZpbGU6UmVtb3RlTGlua18wLjEuMl94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjIKaktWMDRtNkM3T1RlVDFUZTBIcGlQeG9zaDFyM0k3WUkwL0cxOGtGVVFLSkd1RlV3M3JCLzJPWlVxdUxLQ1ZaR04wSDBOSlJENFlCdGxhSlNoYlA1QkE9PQo=",
-      "url": "https://github.com/ariapiacere/remotelink-updates/releases/download/v0.1.2/RemoteLink_0.1.2_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTK2FUd2FQR0lKS1NQT21kdVEzTXZVeGlzaVZjclpkaHM2QWtETDMrMmFJQ2kyUjlzREhidTRHd2txa1JJRGx3YTRMQVZpYmxZNC9ha28xYUVTNVpFYTJ4WGo0M2tCOUFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0OTAwMDYwCWZpbGU6UmVtb3RlTGlua18wLjEuM194NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjMKQUFrOFhyL0lzVG4rODI5U3UwRUtQSDZSR2t4YU00bHBOZTVidUpiRW9NdEhiUzJLY244M0J0WWwxR1d2TWlMQjNRbm1md3E1NkR4VnlZUHlseDhsQWc9PQo=",
+      "url": "https://github.com/ariapiacere/remotelink-updates/releases/download/v0.1.3/RemoteLink_0.1.3_x64-setup.exe"
     }
   }
 }
