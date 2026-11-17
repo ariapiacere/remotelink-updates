@@ -1,11 +1,11 @@
 {
-  "version": "0.1.3",
-  "notes": "You can now type the unattended-access password in the session window while it waits for the other side to accept (or after a refusal), and have it remembered for that device once it is accepted.",
-  "pub_date": "2026-11-17T07:21:02Z",
+  "version": "0.1.4",
+  "notes": "Turn the remote computer's screen from the session window (host menu: 90 degrees right / left / normal). Both computers need 0.1.4: the one you connect to does the turning.",
+  "pub_date": "2026-11-17T07:54:08Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTK2FUd2FQR0lKS1NQT21kdVEzTXZVeGlzaVZjclpkaHM2QWtETDMrMmFJQ2kyUjlzREhidTRHd2txa1JJRGx3YTRMQVZpYmxZNC9ha28xYUVTNVpFYTJ4WGo0M2tCOUFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0OTAwMDYwCWZpbGU6UmVtb3RlTGlua18wLjEuM194NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjMKQUFrOFhyL0lzVG4rODI5U3UwRUtQSDZSR2t4YU00bHBOZTVidUpiRW9NdEhiUzJLY244M0J0WWwxR1d2TWlMQjNRbm1md3E1NkR4VnlZUHlseDhsQWc9PQo=",
-      "url": "https://github.com/ariapiacere/remotelink-updates/releases/download/v0.1.3/RemoteLink_0.1.3_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTK2FUd2FQR0lKS1ZkWVJ1SjNrdVVXekJTekp5bk1hcGF0Z2VndVBnOWwzdGZVbTZibUxsTEsrV2hJRnZKemNBR0pBT1N6QjBXYjNVRFFNQnJ2cCtJd0dqRkZ5bE8zaXdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0OTAyMDQ3CWZpbGU6UmVtb3RlTGlua18wLjEuNF94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjQKb2RZNEd5MWFjMkJSTDdZcVBBRUYyUTdISlV3Nnh1NEx1VG03aVlUY1FVdjlnQ3Z2anNsQXl6QVA0czYrVUtDdGl6aGFpU2tLZzFnZHV6RUN6cytIQlE9PQo=",
+      "url": "https://github.com/ariapiacere/remotelink-updates/releases/download/v0.1.4/RemoteLink_0.1.4_x64-setup.exe"
     }
   }
 }
