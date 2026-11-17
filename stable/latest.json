@@ -1,11 +1,11 @@
 {
-  "version": "0.1.7",
-  "notes": "A turned screen now shows upright (and its taskbar can be clicked). The red session bar can be made small (it grows back when someone new connects). Update the computer you connect to.",
-  "pub_date": "2026-11-17T10:01:59Z",
+  "version": "0.1.8",
+  "notes": "New language button in the session toolbar (next to SC): switches the remote computer's input language. Update the computer you connect from.",
+  "pub_date": "2026-11-17T10:21:15Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTK2FUd2FQR0lKS2VxN3hsSE9qWlN2YjNlV3ZVRC92bVUvZEkrUEJ4ek81aWRLYnpCVGhFanJEbGhSMmlIQUozKzVIZ08wNUgxWUx3OGtEcW9hanhPbDlDMWV0T0ptQXdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0OTA5NzE3CWZpbGU6UmVtb3RlTGlua18wLjEuN194NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjcKMTZqRjdHTTFVdndpbDJuQjNCRlhEWlhhb1cvcjFma09kOCtFekZFalNrcXZBYllydk5NWW8zUkl2NlpLN0RZUXVsV1FQajVybmJVdTc5bUlCdHI1QXc9PQo=",
-      "url": "https://github.com/ariapiacere/remotelink-updates/releases/download/v0.1.7/RemoteLink_0.1.7_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTK2FUd2FQR0lKS1JZYTI2RHVOOUVxbjgxcFBHRWRDSXJCQjdSajBxcldoMUJoSC8xL1dkUWNRS25CbFJzVlpMWlFnbWt1dXBidXcwUFVNSUJDU3dVcHdPamJtSFoxRlFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0OTEwODc0CWZpbGU6UmVtb3RlTGlua18wLjEuOF94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjgKM21LUWZ1VGZncUZaUTJLcDFMQTE4aUQ5Nk9LZlNQTHc2OXpSa0hJM3FuTERQZURuSXQ1dW1HdEIyclpEMk1JSzFLUldmMjJDem1lMGFJZWxXM0FmQUE9PQo=",
+      "url": "https://github.com/ariapiacere/remotelink-updates/releases/download/v0.1.8/RemoteLink_0.1.8_x64-setup.exe"
     }
   }
 }
