@@ -1,11 +1,11 @@
 {
-  "version": "0.1.6",
-  "notes": "Fix: after turning a screen (or changing its resolution) the mouse could only reach part of it. Update the computer you connect to.",
-  "pub_date": "2026-11-17T09:26:24Z",
+  "version": "0.1.7",
+  "notes": "A turned screen now shows upright (and its taskbar can be clicked). The red session bar can be made small (it grows back when someone new connects). Update the computer you connect to.",
+  "pub_date": "2026-11-17T10:01:59Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTK2FUd2FQR0lKS2NOYVNieHh2MlNBb1BQbjlPK3FyVk05QmJOMDVON3JZbzYreEdiTzVNYk1kREpTRW5VR0FnWXJnQXdWU0daUmZLaFNtQVI0NHljWDAwWWZuNld5UXdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0OTA3NTgyCWZpbGU6UmVtb3RlTGlua18wLjEuNl94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjYKRGdUVFVXOTRnREZ6QWhRNWhqK2JjWVNPd1g1dWV2Y3hjSHMrWUZaVWgzUUhoYjdBUlduUHV5dFVSaHJpUHYwOGs3eFVtLzlxOWRnM05yUjBud25QRHc9PQo=",
-      "url": "https://github.com/ariapiacere/remotelink-updates/releases/download/v0.1.6/RemoteLink_0.1.6_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTK2FUd2FQR0lKS2VxN3hsSE9qWlN2YjNlV3ZVRC92bVUvZEkrUEJ4ek81aWRLYnpCVGhFanJEbGhSMmlIQUozKzVIZ08wNUgxWUx3OGtEcW9hanhPbDlDMWV0T0ptQXdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0OTA5NzE3CWZpbGU6UmVtb3RlTGlua18wLjEuN194NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjcKMTZqRjdHTTFVdndpbDJuQjNCRlhEWlhhb1cvcjFma09kOCtFekZFalNrcXZBYllydk5NWW8zUkl2NlpLN0RZUXVsV1FQajVybmJVdTc5bUlCdHI1QXc9PQo=",
+      "url": "https://github.com/ariapiacere/remotelink-updates/releases/download/v0.1.7/RemoteLink_0.1.7_x64-setup.exe"
     }
   }
 }
