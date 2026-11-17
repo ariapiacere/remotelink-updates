@@ -1,11 +1,11 @@
 {
-  "version": "0.1.4",
-  "notes": "Turn the remote computer's screen from the session window (host menu: 90 degrees right / left / normal). Both computers need 0.1.4: the one you connect to does the turning.",
-  "pub_date": "2026-11-17T07:54:08Z",
+  "version": "0.1.5",
+  "notes": "Turning the remote screen now has its own button in the session toolbar (the circular arrow next to the display switcher).",
+  "pub_date": "2026-11-17T08:31:24Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTK2FUd2FQR0lKS1ZkWVJ1SjNrdVVXekJTekp5bk1hcGF0Z2VndVBnOWwzdGZVbTZibUxsTEsrV2hJRnZKemNBR0pBT1N6QjBXYjNVRFFNQnJ2cCtJd0dqRkZ5bE8zaXdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0OTAyMDQ3CWZpbGU6UmVtb3RlTGlua18wLjEuNF94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjQKb2RZNEd5MWFjMkJSTDdZcVBBRUYyUTdISlV3Nnh1NEx1VG03aVlUY1FVdjlnQ3Z2anNsQXl6QVA0czYrVUtDdGl6aGFpU2tLZzFnZHV6RUN6cytIQlE9PQo=",
-      "url": "https://github.com/ariapiacere/remotelink-updates/releases/download/v0.1.4/RemoteLink_0.1.4_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTK2FUd2FQR0lKS2R0VHlDYXFwQWRQbG10U0twL3NDU1ZvZVp6T2g0NEU4Tm1CLzJKaDBWbUFCV01GaVdjK3NNakxiZUU2YWpiTkozbHl5dyt0ZVdMUmFVWXFXMzVsN0FZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0OTA0MjgzCWZpbGU6UmVtb3RlTGlua18wLjEuNV94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjUKZUVYa1YyR3VxWTdTS3JWdUJpWlowWGhhQXpjbjNaV1Z1OWdmTzlDdVZEd2w2eWNkVlNyeThoRk8rNEp1T3p0VnVubFFJbytXUHpWMmNFckN0WVZWREE9PQo=",
+      "url": "https://github.com/ariapiacere/remotelink-updates/releases/download/v0.1.5/RemoteLink_0.1.5_x64-setup.exe"
     }
   }
 }
