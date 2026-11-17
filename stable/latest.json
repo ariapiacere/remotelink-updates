@@ -1,0 +1,11 @@
+{
+  "version": "0.1.2",
+  "notes": "First version that updates itself from GitHub. AMD hardware-encoder hosts: about 90 % less bandwidth (padding is no longer sent); the command-line viewer no longer stalls on AMD streams.",
+  "pub_date": "2026-11-17T05:33:57Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTK2FUd2FQR0lKS1hiNko2R0NTVmN4NFpPQUVrblFSajFWN1JyQ3VjTlY3OEdMR050MHpVcUxlSCttd0E0bVhzZjNZa1NvZ3JtZnJPbXpleGxxTkFJNnVRdmRmazJ0ZndVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0ODkzNjM1CWZpbGU6UmVtb3RlTGlua18wLjEuMl94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjIKaktWMDRtNkM3T1RlVDFUZTBIcGlQeG9zaDFyM0k3WUkwL0cxOGtGVVFLSkd1RlV3M3JCLzJPWlVxdUxLQ1ZaR04wSDBOSlJENFlCdGxhSlNoYlA1QkE9PQo=",
+      "url": "https://github.com/ariapiacere/remotelink-updates/releases/download/v0.1.2/RemoteLink_0.1.2_x64-setup.exe"
+    }
+  }
+}
