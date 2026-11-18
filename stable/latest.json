@@ -1,11 +1,11 @@
 {
-  "version": "0.1.10",
-  "notes": "Still pictures turn sharp: after a keyframe or a large change the host keeps encoding the still picture until it is sharp (before, a still screen could stay blurry). The small session bar is remembered between sessions (a new session shows the whole bar for a few seconds). The language key (above Tab) is also taken when other software re-injects keys, and the language button lights up while it is active.",
-  "pub_date": "2026-11-17T12:33:58Z",
+  "version": "0.1.11",
+  "notes": "The picture no longer drifts to low quality: the bitrate controller took every hiccup of the viewer for a slow network and never gave the bitrate back on a still screen (a LAN session had dropped to 640x400 at 0.15 Mbit/s). The viewer now reports when a frame arrives, separately from decoding it, and the quality comes back by itself on a clear link. Copied files can be pasted on the other computer: they did arrive before, but Explorer offered no Paste. Update both computers.",
+  "pub_date": "2026-11-18T04:24:37Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTK2FUd2FQR0lKS1loa0VhS0dqYkowblhRRTRXRnF2ZHl2d3lMR3ljbXFtak9FTnBUbUcyU3RjMjFVRWNCWkVHS3BVQ0lRVTZkdkgwS2t5Y2NxTkJEb2htSHg0QUlKY0FrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0OTE4ODM3CWZpbGU6UmVtb3RlTGlua18wLjEuMTBfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMS4xMAprNXpYVG5IeW1CeXpkUk4zMFR5VkltNHJXbDF4RC9qRVVPdVpjWEJDUWR1VEMwOXdtWUR1VEMzRGF2dTJsTkVZRmxJUVJIcXdmb29vakdoTGVha3REZz09Cg==",
-      "url": "https://github.com/ariapiacere/remotelink-updates/releases/download/v0.1.10/RemoteLink_0.1.10_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTK2FUd2FQR0lKS2FOWkd4N2FtQU4zSS9qTEEyS3BzN3VYTitNNU5QU092c1pmTXlLaHR3dFhRRVd0bHE0cUVGNjFYb2dsYlUxT1Q4cktUdDV3Vjl4ZTVhdkJsRnYxMGdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0OTc1ODc1CWZpbGU6UmVtb3RlTGlua18wLjEuMTFfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMS4xMQorWXZNcGFMd29YUzB4alNyaFF1aWdPV2hwOXZwbVQvbjNTdjQvRWtXZnJ1dm1XU3Q3OTdqQjJxbzJJRDhiOWFkNlVIczlRdzI5WXN5eHdlODBNWTZCdz09Cg==",
+      "url": "https://github.com/ariapiacere/remotelink-updates/releases/download/v0.1.11/RemoteLink_0.1.11_x64-setup.exe"
     }
   }
 }
